@@ -1,0 +1,3 @@
+interface Polygon {
+    int numberOfSides();
+}
